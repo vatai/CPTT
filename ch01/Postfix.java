@@ -1,3 +1,8 @@
+/**
+ * @file Postfix.java
+ * @brief Convert infix to postfix 1+2-3 -> 12+3-
+ * Compilers, Principles, Techniques and Tools: page 75.
+ */
 import java.io.*;
 
 class Parser {
